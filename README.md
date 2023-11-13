@@ -27,6 +27,8 @@
   <img src="https://img.shields.io/badge/SASS-333?style=for-the-badge&logo=SASS" alt="SASS Badge"/>
   <img src="https://img.shields.io/badge/tailwindcss-333?style=for-the-badge&logo=tailwind-css" alt="Tailwind Badge"/>
   <img src="https://img.shields.io/badge/Webpack-333?style=for-the-badge&logo=Webpack" alt="Webpack Badge"/>
+  <img src="https://img.shields.io/badge/vite-333?style=for-the-badge&logo=vite" alt="Vite Badge"/>
+  <img src="https://img.shields.io/badge/vitest-333?style=for-the-badge&logo=vitest" alt="Vitest Badge"/>
   <img src="https://img.shields.io/badge/Git-333?style=for-the-badge&logo=Git" alt="Git Badge"/>
   <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=GitHub" alt="GitHub Badge"/>
   <img src="https://img.shields.io/badge/Node.js-333?style=for-the-badge&logo=nodedotjs" alt="Node.js Badge"/>
