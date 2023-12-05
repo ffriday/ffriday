@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <h3 align="center">:hammer_and_wrench:Tech Stack:</h3>
+  <h3 align="center">TechStack:</h3>
   <img src="https://img.shields.io/badge/TypeScript-333?style=for-the-badge&logo=TypeScript" alt="TypeScript Badge"/>
   <img src="https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=JavaScript" alt="JavaScript Badge"/>
   <img src="https://img.shields.io/badge/React-333?style=for-the-badge&logo=React" alt="React Badge"/>
