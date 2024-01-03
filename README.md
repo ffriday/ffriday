@@ -36,3 +36,8 @@
   <img src="https://img.shields.io/badge/PostgreSQL-333?style=for-the-badge&logo=postgresql" alt="PostgreSQL Badge"/>
   <img src="https://img.shields.io/badge/Figma-333?style=for-the-badge&logo=Figma" alt="Figma Badge"/>
 </div> 
+
+<br/>
+<div align="center">
+  <a href="https://ffriday.github.io/cv/">Detailed CV</a>
+</div> 
