@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/Express-333?style=for-the-badge&logo=express" alt="Express Badge"/>
   <img src="https://img.shields.io/badge/PostgreSQL-333?style=for-the-badge&logo=postgresql" alt="PostgreSQL Badge"/>
   <img src="https://img.shields.io/badge/Figma-333?style=for-the-badge&logo=Figma" alt="Figma Badge"/>
+  <img src="https://img.shields.io/badge/VUE-333?style=for-the-badge&logo=Vue" alt="Vue Badge"/>
 </div> 
 
 <br/>
