@@ -40,5 +40,10 @@
 
 <br/>
 <div align="center">
-  <a href="https://ffriday.github.io/cv/">Detailed CV</a>
+  <a href="https://bug-busters-graphiql.netlify.app/">GraphQL client</a> • 
+  <a href="https://ffriday.github.io/utility-counters/">Utility counters</a> • 
+  <a href="https://rss-react-five.vercel.app">Stars API</a> • 
+  <a href="https://ffriday.github.io/rickandmorty/">Rick and Morty API</a> • 
+  <a href="https://rssforms.vercel.app/">React Forms</a> • 
+  <a href="https://ffriday.github.io/virtual-keyboard/">Virtual keyboard</a>
 </div> 
